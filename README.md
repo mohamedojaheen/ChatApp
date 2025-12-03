@@ -65,7 +65,7 @@ flutter run
 
 ## 📥 Download App
 
-<a href="INSERT_YOUR_RELEASE_LINK_HERE">
+<a href="https://github.com/mohamedojaheen/ChatApp/releases/tag/v1.0.0">
   <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK" height="40">
 </a>
 
