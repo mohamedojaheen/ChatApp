@@ -62,3 +62,11 @@ flutter run
 | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
 
 ## Tested on Android 16 & 13
+
+## 📥 Download App
+
+<a href="INSERT_YOUR_RELEASE_LINK_HERE">
+  <img src="https://img.shields.io/badge/Download-APK-blue?style=for-the-badge&logo=android" alt="Download APK" height="40">
+</a>
+
+[Click here to download the latest APK (v1.0.0)](https://github.com/mohamedojaheen/ChatApp/releases/tag/v1.0.0)
