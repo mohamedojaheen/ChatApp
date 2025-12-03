@@ -61,3 +61,4 @@ flutter run
 |--------------|-------------|-------------|
 | ![Login](screenshots/login.png) | ![Home](screenshots/home.png) | ![Chat](screenshots/chat.png) |
 
+## Tested on Android 16 & 13
